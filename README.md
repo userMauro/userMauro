@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @userMauro
 - 👀 I’m interested in Python & JavaScript.
-- 🌱 I’m currently learning Full Stacker Developer.
+- 🌱 I’m currently learning Full Stacker Developer at SoyHENRY.
 - 📫 How to reach me: mauroncioci@gmail.com
 
 <!---
