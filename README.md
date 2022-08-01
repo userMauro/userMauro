@@ -5,7 +5,9 @@ const usermauro = {
     pronouns: "he / him",
     country: "Argentina",
 }
-    
+```
+
+```js
 let skills = {
     "Programming Language": [ "JavaScript" ],
     "Web Technology":       [ "HTML", "CSS", "Node.js" ],
@@ -16,9 +18,11 @@ let skills = {
     "Processes":            [ "SCRUM" ],
     "Version Control":      [ "Git", "Github" ],
 }
-
-// 📫 How to reach me: mauroncioci@gmail
 ```
 
-    "Astronet":  [Link] (https://github.com/vlmnst/proyecto-final),
-    "Countries": [Link] (https://github.com/userMauro/individual-project),
+[Astronet]  (https://github.com/vlmnst/proyecto-final)
+[Countries] (https://github.com/userMauro/individual-project)
+
+```js
+📫 How to reach me: mauroncioci@gmail
+```
