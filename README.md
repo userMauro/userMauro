@@ -1,6 +1,12 @@
 ```
 Hi there 👋 I'm full stack developer.
 
+const usermauro = {
+    pronouns: "he / him",
+    country: "Argentina",
+}
+    
+
 let skills = {
     "Programming Language": [ "JavaScript" ],
     "Web Technology":       [ "HTML", "CSS", "Node.js" ],
@@ -14,7 +20,7 @@ let skills = {
 
 let projects = {
     "Astronet":  [Link] (https://github.com/vlmnst/proyecto-final),
-    "Countries": https://github.com/userMauro/individual-project,
+    "Countries": [Link] (https://github.com/userMauro/individual-project),
 }
 
 📫 How to reach me: mauroncioci@gmail
