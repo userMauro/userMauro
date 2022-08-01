@@ -1,5 +1,5 @@
 ```
-Hi there 👋 I'm full stacker developer.
+Hi there 👋 I'm full stack developer.
 
 let skills = {
     "Programming Language": [ "JavaScript" ],
