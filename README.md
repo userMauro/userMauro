@@ -4,7 +4,7 @@
 const usermauro = {
     pronouns: "he / him",
     country: "Argentina",
-    contact: mauroncioci@gmail.com
+    contact: "mauroncioci@gmail.com"
 }
 ```
 
