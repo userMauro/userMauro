@@ -17,10 +17,8 @@ let skills = {
     "Version Control":      [ "Git", "Github" ],
 }
 
-let projects = {
-    "Astronet":  [Link] (https://github.com/vlmnst/proyecto-final),
-    "Countries": [Link] (https://github.com/userMauro/individual-project),
-}
-
 // 📫 How to reach me: mauroncioci@gmail
 ```
+
+    "Astronet":  [Link] (https://github.com/vlmnst/proyecto-final),
+    "Countries": [Link] (https://github.com/userMauro/individual-project),
