@@ -13,7 +13,7 @@ let skills = {
 }
 
 let projects = {
-    "Astronet":  https://github.com/vlmnst/proyecto-final,
+    "Astronet":  [Link] (https://github.com/vlmnst/proyecto-final),
     "Countries": https://github.com/userMauro/individual-project,
 }
 
