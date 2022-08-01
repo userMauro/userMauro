@@ -1,6 +1,5 @@
 ```
-👋 Hi there, I’m @userMauro.
-// Full Stacker Developer
+Hi there 👋 I'm full stacker developer.
 
 let skills = {
     "Programming Language": [ "JavaScript" ],
