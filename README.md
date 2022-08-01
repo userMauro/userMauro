@@ -20,11 +20,9 @@ let skills = {
 }
 ```
 
-```
 Projects:
 - [Astronet]  (https://github.com/vlmnst/proyecto-final)
 - [Countries] (https://github.com/userMauro/individual-project)
-```
 
 ```js
 📫 How to reach me: mauroncioci@gmail
