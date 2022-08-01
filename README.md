@@ -1,6 +1,5 @@
 ```
-// 👋 Hi there, I’m @userMauro.
-
+👋 Hi there, I’m @userMauro.
 // Full Stacker Developer
 
 let skills = {
@@ -14,5 +13,5 @@ let skills = {
     "Version Control":      [ "Git", "Github" ],
 }
 
-// 📫 How to reach me: mauroncioci@gmail
+📫 How to reach me: mauroncioci@gmail
 ```
