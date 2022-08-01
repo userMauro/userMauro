@@ -1,12 +1,11 @@
 ```js
-Hi there 👋 I'm full stack developer.
+// Hi there 👋 I'm full stack developer.
 
 const usermauro = {
     pronouns: "he / him",
     country: "Argentina",
 }
     
-
 let skills = {
     "Programming Language": [ "JavaScript" ],
     "Web Technology":       [ "HTML", "CSS", "Node.js" ],
@@ -23,5 +22,5 @@ let projects = {
     "Countries": [Link] (https://github.com/userMauro/individual-project),
 }
 
-📫 How to reach me: mauroncioci@gmail
+// 📫 How to reach me: mauroncioci@gmail
 ```
