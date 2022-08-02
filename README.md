@@ -22,5 +22,5 @@ let skills = {
 ```
 
 ```Projects:```
-- [Astronet]  (https://github.com/vlmnst/proyecto-final)
+- [Astronet]  (https://github.com/vlmnst/AstroNet)
 - [Countries] (https://github.com/userMauro/individual-project)
