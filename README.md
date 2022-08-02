@@ -23,4 +23,4 @@ let skills = {
 
 ```Projects:```
 - [Astronet]  (https://github.com/vlmnst/AstroNet)
-- [Countries] (https://github.com/userMauro/individual-project)
+- [Countries] (https://countries-ten-theta.vercel.app/)
