@@ -2,7 +2,7 @@
 // Hi there 👋 I'm full stack developer.
 
 const usermauro = {
-    pronouns: "he / him",
+    pronouns: "he/him",
     country: "Argentina",
     contact: "mauroncioci@gmail.com"
 }
