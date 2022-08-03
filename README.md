@@ -1,7 +1,5 @@
 <h3 align="left">Hola! 👋 Soy Mauro, Full Stack Developer</h3>
 
-###
-
 <p align="left">Tengo experiencia en liderazgo de grupos y en desarrollo web tanto backend como frontend trabajando con Javascript, Node.js y React principalmente. Usando Git y Github para el control de versiones, metodología SCRUM y Trello. Destaco mi pensamiento lógico-creativo y mi rapidez en el aprendizaje, así como también el compromiso y responsabilidad que asumo al proyecto en el cual me encuentre.</p>
 
 - [Linkedin] (https://www.linkedin.com/in/mauro-nu%C3%B1ez-cioci-developer/)
