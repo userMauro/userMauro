@@ -1,4 +1,4 @@
-<h2 align="left">Hola! 👋 Me llamo Mauro y soy Full Stack Developer</h2>
+<h2 align="left">Hola! 👋 Soy Mauro, Full Stack Developer</h2>
 
 ###
 
