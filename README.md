@@ -1,6 +1,6 @@
 <h3 align="left">Hi! 👋 I'm Mauro, Full Stack Developer</h3>
 
-<p align="left">I highlight my logical-creative thinking for problem solving and my speed in learning, as well as the commitment and responsibility that I assume to the project in which I am involved. I have experience in web development (both backend and frontend) working with Javascript, Node.js and React (Native & .js) mainly. Using Git and Github for version control, SCRUM and Trello methodology.</p>
+<p align="left">Web developer in constant training, I seek to provide quality solutions and commitment to the project in which I find myself. I have experience in MERN and PERN stacks, use of Git for version control and implementation of SCRUM and Trello methodology.</p>
 
 - [Linkedin] (https://www.linkedin.com/in/mauro-nu%C3%B1ez-cioci-developer/)
 - [Portfolio] (https://portfolio-git-main-usermauro.vercel.app/)
