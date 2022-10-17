@@ -20,7 +20,7 @@ let skills = {
     "Web Technology":       [ "HTML", "CSS", "Sass", "Node.js" ],
     "Database":             [ "PostgreSQL", "MongoDB", "Cloudinary" ],
     "ORMs - ODMs":          [ "Sequelize", "Mongoose" ],
-    "Framework - Library":  [ "React.js", "React Native", "Redux", "Express.js" ],
+    "Framework - Library":  [ "React", "React Native", "Redux", "Express" ],
     "Auth":                 [ "JWT" ],
     "Project management":   [ "Trello", "Slack" ],
     "Processes":            [ "SCRUM" ],
