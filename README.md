@@ -29,6 +29,7 @@ let skills = {
 ```
 
 ```Projects:```
+- [Bue!] (https://main.d33rhbzzi8y0oq.amplifyapp.com/)
 - [Punta y Hacha] (https://puntayhacha.com.ar)
 - [Astronet]  (https://github.com/vlmnst/AstroNet)
 - [Countries] (https://countries-ten-theta.vercel.app/)
