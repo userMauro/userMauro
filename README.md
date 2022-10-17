@@ -17,10 +17,11 @@ const usermauro = {
 ```js
 let skills = {
     "Programming Language": [ "JavaScript" ],
-    "Web Technology":       [ "HTML", "CSS", "Node.js" ],
+    "Web Technology":       [ "HTML", "CSS", "Sass", "Node.js" ],
     "Database":             [ "PostgreSQL", "MongoDB", "Cloudinary" ],
     "ORMs - ODMs":          [ "Sequelize", "Mongoose" ],
     "Framework - Library":  [ "React.js", "React Native", "Redux", "Express.js" ],
+    "Auth":                 [ "JWT" ],
     "Project management":   [ "Trello", "Slack" ],
     "Processes":            [ "SCRUM" ],
     "Version Control":      [ "Git", "Github" ],
