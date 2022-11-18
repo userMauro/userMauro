@@ -17,7 +17,7 @@ const usermauro = {
 ```js
 let skills = {
     "Programming Language": [ "JavaScript" ],
-    "Web Technology":       [ "HTML", "CSS", "Sass", "Node.js" ],
+    "Web Technology":       [ "HTML", "CSS", "Sass", "Tailwind", "Node.js" ],
     "Database":             [ "PostgreSQL", "MongoDB", "Cloudinary" ],
     "ORMs - ODMs":          [ "Sequelize", "Mongoose" ],
     "Framework - Library":  [ "React", "React Native", "Redux", "Express" ],
