@@ -25,6 +25,6 @@ let skills = {
     "Project management":   [ "Trello", "Slack" ],
     "Processes":            [ "SCRUM" ],
     "Version Control":      [ "Git", "Github" ],
-    "Deployment":           [ "Bitrise", "CodePush" ]
+    "Deployment":           [ "Bitrise", "CodePush", "Envoyer" ]
 }
 ```
