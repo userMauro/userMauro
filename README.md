@@ -1,11 +1,9 @@
-[Linkedin] (https://www.linkedin.com/in/mauro-nu%C3%B1ez-cioci-developer/)
-
 ```js
-
 const usermauro = {
     pronouns: "he/him",
     country: "Argentina",
     contact: "mauroncioci@gmail.com",
+    linkedin: "https://www.linkedin.com/in/mauro-nu%C3%B1ez-cioci-developer" 
 }
 ```
 
