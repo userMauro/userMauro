@@ -1,6 +1,4 @@
-<h3 align="left">Game and Web developer</h3>
-
-- [Linkedin] (https://www.linkedin.com/in/mauro-nu%C3%B1ez-cioci-developer/)
+[Linkedin] (https://www.linkedin.com/in/mauro-nu%C3%B1ez-cioci-developer/)
 
 ```js
 
